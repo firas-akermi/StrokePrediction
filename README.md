@@ -1,5 +1,5 @@
 # Heart stroke prediction web app using Random forest
-# Visit my Linekdin aacount
+# Visit my Linekdin account
 [Firas Akermi](https://www.linkedin.com/in/firas-akermi)
 # Cloning the app repository
 ```
