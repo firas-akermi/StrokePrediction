@@ -21,7 +21,7 @@ source webapp/bin/activate
 ```
 pip install -r dependencies.yaml
 ```
-# Launching the app
+Launching the app
 ```
 streamlit run app.py
 ```
