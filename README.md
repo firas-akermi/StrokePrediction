@@ -1,6 +1,5 @@
 # Heart stroke prediction web app using Random forest
-# Visit my Linekdin account
-[Firas Akermi](https://www.linkedin.com/in/firas-akermi)
+# [Add me on Linekdin](https://www.linkedin.com/in/firas-akermi)
 # Cloning the app repository
 ```
 git clone https://github.com/firas-akermi/Bioinformatics
@@ -17,7 +16,7 @@ Activate webapp environment
 ```
 source webapp/bin/activate
 ```
-# Installing dependencies
+Installing dependencies
 ```
 pip install -r dependencies.yaml
 ```
