@@ -5,6 +5,9 @@
 ```
 git clone https://github.com/firas-akermi/Bioinformatics
 ```
+```
+cd Bioinformatics
+```
 # Running the app 
 Create python virtual environment
 ```
@@ -12,7 +15,7 @@ python3 -m venv webapp
 ```
 Activate webapp environment
 ```
-source web/bin/activate
+source webapp/bin/activate
 ```
 # Installing dependencies
 ```

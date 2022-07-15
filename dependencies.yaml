@@ -1,0 +1,8 @@
+dependencies:
+    - pandas
+    - matplotlib
+    - seaborn
+    - numpy
+    - streamlit
+    - sklearn
+    - pickle
