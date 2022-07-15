@@ -4,4 +4,4 @@ seaborn
 numpy
 streamlit
 sklearn
-pickle
+plotly
